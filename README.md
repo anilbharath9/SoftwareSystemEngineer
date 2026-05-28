@@ -2,6 +2,8 @@
 
 Welcome! This repository contains a curated collection of foundational software engineering books and PDFs, structured as a **6-month self-study roadmap** inspired by the guide *"How to become a world-class Software Engineer (in 6 months)"* by **Neo Kim**.
 
+![6-Month Study Roadmap](roadmap.png)
+
 > 💡 **The Core Principle:** Build projects. Read 2 books a month. Reading should complement practice.
 
 ---
